@@ -1,0 +1,3 @@
+[submodule "omnifocus_to_due"]
+	path = omnifocus_to_due
+	url = git://github.com/alyssais/omnifocus_to_due.git
